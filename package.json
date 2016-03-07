@@ -1,0 +1,26 @@
+{
+  "name": "ebook-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raihanorium/ebook-downloader.git"
+  },
+  "author": "raihan.dk@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raihanorium/ebook-downloader/issues"
+  },
+  "homepage": "https://github.com/raihanorium/ebook-downloader#readme",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-resource": "^1.5.0",
+    "bootstrap": "^3.3.6",
+    "bower": "^1.7.7",
+    "jquery": "^2.2.1"
+  }
+}
